@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/myqss">
+        <file>login.qss</file>
+        <file>drawer.qss</file>
+        <file>scrollbar.qss</file>
+    </qresource>
+    <qresource prefix="/songs"/>
+</RCC>

@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file>10.jpeg</file>
+        <file>11.jpg</file>
+        <file>purple0.4.gif</file>
+        <file>blue70-2.gif</file>
+        <file>red69-2.gif</file>
+        <file>myicon_1.png</file>
+        <file>myicon_2.png</file>
+        <file>myicon_3.png</file>
+        <file>kobe_1.jpg</file>
+        <file>QQgreen.png</file>
+        <file>QQwhite.png</file>
+        <file>contact_green.png</file>
+        <file>contact_white.png</file>
+        <file>monments_green.png</file>
+        <file>monments_white.png</file>
+        <file>personman.png</file>
+        <file>A26.png</file>
+        <file>emotion26.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>school.jpg</file>
+        <file>A26_2.png</file>
+        <file>emotion26_2.png</file>
+        <file>searchlogo52_23.png</file>
+        <file>touxiang01.jpg</file>
+        <file>touxiang02.jpg</file>
+        <file>sunshine.jpg</file>
+        <file>friendmsg.png</file>
+        <file>10.JPG</file>
+        <file>QQ.jpg</file>
+        <file>emoji.png</file>
+        <file>settings4.png</file>
+        <file>emoji2.png</file>
+        <file>sun.jpg</file>
+        <file>sun2.png</file>
+    </qresource>
+    <qresource prefix="/emotion">
+        <file>login.qss</file>
+        <file>emotion26.png</file>
+        <file>emo/em1.jpg</file>
+        <file>emo/em2.jpg</file>
+        <file>emo/em3.jpg</file>
+        <file>emo/em4.jpg</file>
+        <file>emo/em5.jpg</file>
+        <file>emo/em6.jpg</file>
+        <file>emo/em7.jpg</file>
+        <file>emo/em8.jpg</file>
+        <file>emo/em9.jpg</file>
+        <file>emo/em10.jpg</file>
+        <file>emo/em11.jpg</file>
+        <file>emo/em12.jpg</file>
+    </qresource>
+</RCC>
