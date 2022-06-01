@@ -1,0 +1,21 @@
+﻿E:\迅雷下载\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (projekt_serwer_TCP.vcxproj, TCP_server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Server.cpp
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(33,1): warning C4326:  “main”的返回类型应为“int”而非“void”
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(95,119): warning C4474:  printf: 格式字符串中传递的参数太多
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(95,119): message :  占位符和其参数预计 3 可变参数，但提供的却是 5 参数
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(37,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(61,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Windows Kits\10\Include\10.0.18362.0\um\Winsock2.h(1831): message :  参见“inet_addr”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(78,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(85,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(86,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Windows Kits\10\Include\10.0.18362.0\um\Winsock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(94,1): warning C4996:  'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message :  参见“localtime”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(95,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Windows Kits\10\Include\10.0.18362.0\um\Winsock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\17628\Desktop\UDP_socket\UDP_server\Server.cpp(41,6): warning C4101:  “iErrorCode”: 未引用的局部变量
+  UDP_server.vcxproj -> C:\Users\17628\Desktop\UDP_socket\x64\Debug\UDP_server.exe

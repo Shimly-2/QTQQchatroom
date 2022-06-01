@@ -1,0 +1,2 @@
+﻿E:\迅雷下载\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (projekt_serwer_TCP.vcxproj, TCP_server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  projekt_serwer_TCP.vcxproj -> C:\Users\17628\Desktop\UDP_socket\x64\Debug\UDP_server.exe
